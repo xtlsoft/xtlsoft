@@ -2,7 +2,7 @@
 
 #### Basics
 
-Currently in Jiangsu, China. Senior 2 student.
+Currently in College of Engineering, Peking University. Undergraduate student, major in Theoretical and Applied Mechanics.
 
 Using GitHub for developing open-source softwares. Private repos are on self-hosted services.
 
