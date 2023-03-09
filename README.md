@@ -10,10 +10,11 @@ Using GitHub for developing open-source softwares. Private repos are on self-hos
 
 Projects currently actively working on:
 
-- Project resix (<https://resix.run>) and sub-projects
+- Several lab projects (Some of the source codes have not been released)
+- Projects for LCPU (Linux Club of Peking University)
 - small libraries in my personal account
 
-Note that despite the small libraries aren't updated recently, it does not mean they are abandoned, but they do not need to be updated. When found bugs, feel easy to open issues and I will look into them.
+Note that despite the small libraries are not updated recently, it does not mean that they are abandoned. The reason is that they may not need to be updated at the current stage. When bugs are found or here is a feature request, feel easy to open issues or pull requests.
 
 #### Find Me
 
